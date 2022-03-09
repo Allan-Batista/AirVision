@@ -60,7 +60,7 @@
 
 ### Desenvolvido por:
 - @joaoavictor (joao.asantos@bandtec.com.br)
-- @luanahamaishi ()
+- @luanahamaishi (luana.hamaishi@bandtec.com.br)
 - @jhalvarenga ()
 - @alexandre-gavazzi ()
 - @ ()
