@@ -13,6 +13,15 @@
 
 #
 
+### Descrição do projeto:
+
+<p>
+AirVision surgiu tendo em vista os problemas que os passageiros passam todos os dias nos aeroportos com filas, atrasos , totens defeituosos com demora para se concertar. Nos da AirVision criamos um sistema de monitoramento de totens para mapeamento de problema com hardware, para acelerar a manutenção 
+
+Nosso principal desafio é manter a máquina funcionando perfeitamente, para evitar que um passageiro perca sua viagem, antecipar possíveis problemas para entregar com excelencia e qualidade.
+</p>
+#
+
 ### Desenvolvido até o momento:
 <ol>
   <li>Início
