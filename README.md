@@ -12,8 +12,6 @@
 ![acquatec-banner](https://user-images.githubusercontent.com/53584199/135951148-63a419d4-9eff-4f4c-a863-d60a15bef6f9.png)
 
 #
-
-#
 ### Descrição do projeto:
 
 <p>
@@ -21,6 +19,8 @@ AirVision surgiu tendo em vista os problemas que os passageiros passam todos os 
 
 Nosso principal desafio é manter a máquina funcionando perfeitamente, para evitar que um passageiro perca sua viagem, antecipar possíveis problemas para entregar com excelencia e qualidade.
 </p>
+#
+
 #
 
 ### Desenvolvido até o momento:
